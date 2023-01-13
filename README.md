@@ -65,6 +65,22 @@
 
 Данный файл содержит реализацию бота, из него подключаются все папки.
 
+### Использованные ресурсы при подготовке проекта
+
+1. https://dtf.ru/u/48338-akkaunt-ne-ispolzuetsya/175557-gpt-novye-grani-fantastiki (GPT - Новые грани фантастики)
+2. https://github.com/lambdamai/datascience/blob/main/nlp/GPT_introduction.ipynb (GPT для чайников: от токенизации до файтюнинга)
+3. https://habr.com/ru/post/486358/ (Transformer в картинках)
+4. https://habr.com/ru/post/334380/ (PyTorch - ваш новый фреймворк глубокого обучения)
+5. https://habr.com/ru/post/417215/ (Всё, что нужно знать о сборщике мусора в Python)
+6. https://habr.com/ru/post/704592/ (Введение в библиотеку Transformers и платформу Hugging Face)
+7. https://www.geeksforgeeks.org/what-is-with-torch-no_grad-in-pytorch/ (What is with torch.nograd() in PyTorch?)
+8. https://stackoverflow.com/questions/60018578/what-does-model-eval-do-in-pytorch (What does model.eval() in PyTorch?)
+9. https://huggingface.co/transformers/v3.0.2/index.html (Transformers docs)
+10. https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network (About batch size)
+11. https://python-school.ru/blog/fine-tuning/ (Что такое Fine Tuning)
+12. https://developers.sber.ru/portal/products/rugpt-3?attempt=1 (rugpt3)
+13. https://www.youtube.com/playlist?list=PLPELDof3v08efHGT3gVLPCXG5cKRo50Nn (Бот на Python)
+
 ## Использование
 
 1. Необходимо скачать полученную обученную модель `Neural_network.ipynb` и поместить в папку с ботом.
