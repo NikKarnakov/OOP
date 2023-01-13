@@ -80,6 +80,7 @@
 11. https://python-school.ru/blog/fine-tuning/ (Что такое Fine Tuning)
 12. https://developers.sber.ru/portal/products/rugpt-3?attempt=1 (rugpt3)
 13. https://www.youtube.com/playlist?list=PLPELDof3v08efHGT3gVLPCXG5cKRo50Nn (Бот на Python)
+14. https://habr.com/ru/post/85095/ (Паттерн Адаптер)
 
 ## Использование
 
